@@ -1,8 +1,3 @@
-import asyncio
-from typing import Optional
-
-from motor.motor_asyncio import AsyncIOMotorClient
-
 from beanie import Document, Indexed, init_beanie
 
 
